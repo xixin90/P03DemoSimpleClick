@@ -3,4 +3,9 @@
     <string name="enter_something">Enter Something</string>
     <string name="display_button">Display</string>
     <string name="display_input">Display what the user enters</string>
+    <string name="disabled">DIsabled</string>
+    <string name="enabled">Enabled</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
 </resources>
